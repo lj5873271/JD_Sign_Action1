@@ -63,4 +63,4 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 
-最新更新2021.02.24
+最新更新2021.03.28
